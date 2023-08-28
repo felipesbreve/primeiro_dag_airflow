@@ -1,0 +1,269 @@
+[2023-08-28 20:07:11,970] {processor.py:153} INFO - Started process (PID=23957) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:07:11,973] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:07:11,981] {logging_mixin.py:115} INFO - [2023-08-28 20:07:11,980] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:07:14,534] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:07:14,713] {logging_mixin.py:115} INFO - [2023-08-28 20:07:14,713] {manager.py:508} INFO - Created Permission View: can delete on DAG:dados_climaticos
+[2023-08-28 20:07:14,744] {logging_mixin.py:115} INFO - [2023-08-28 20:07:14,743] {manager.py:508} INFO - Created Permission View: can read on DAG:dados_climaticos
+[2023-08-28 20:07:14,776] {logging_mixin.py:115} INFO - [2023-08-28 20:07:14,774] {manager.py:508} INFO - Created Permission View: can edit on DAG:dados_climaticos
+[2023-08-28 20:07:14,777] {logging_mixin.py:115} INFO - [2023-08-28 20:07:14,777] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:07:14,814] {logging_mixin.py:115} INFO - [2023-08-28 20:07:14,814] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2023-08-28 20:07:14,840] {logging_mixin.py:115} INFO - [2023-08-28 20:07:14,840] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-07-31T00:00:00+00:00, run_after=2023-08-07T00:00:00+00:00
+[2023-08-28 20:07:14,913] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 2.966 seconds
+[2023-08-28 20:10:50,211] {processor.py:153} INFO - Started process (PID=26153) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:10:50,213] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:10:50,216] {logging_mixin.py:115} INFO - [2023-08-28 20:10:50,215] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:10:58,463] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:10:58,491] {logging_mixin.py:115} INFO - [2023-08-28 20:10:58,491] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:10:58,543] {logging_mixin.py:115} INFO - [2023-08-28 20:10:58,543] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:10:58,584] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 8.392 seconds
+[2023-08-28 20:13:26,184] {processor.py:153} INFO - Started process (PID=26604) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:13:26,186] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:13:26,188] {logging_mixin.py:115} INFO - [2023-08-28 20:13:26,188] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:13:28,735] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:13:28,853] {logging_mixin.py:115} INFO - [2023-08-28 20:13:28,853] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:13:28,965] {logging_mixin.py:115} INFO - [2023-08-28 20:13:28,965] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:13:29,036] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 2.879 seconds
+[2023-08-28 20:14:33,921] {processor.py:153} INFO - Started process (PID=27238) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:14:33,923] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:14:33,927] {logging_mixin.py:115} INFO - [2023-08-28 20:14:33,927] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:14:34,966] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:14:34,995] {logging_mixin.py:115} INFO - [2023-08-28 20:14:34,994] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:14:35,032] {logging_mixin.py:115} INFO - [2023-08-28 20:14:35,032] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:14:35,063] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.155 seconds
+[2023-08-28 20:15:14,590] {processor.py:153} INFO - Started process (PID=27382) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:15:14,591] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:15:14,593] {logging_mixin.py:115} INFO - [2023-08-28 20:15:14,592] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:15:15,772] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:15:15,800] {logging_mixin.py:115} INFO - [2023-08-28 20:15:15,800] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:15:15,839] {logging_mixin.py:115} INFO - [2023-08-28 20:15:15,839] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:15:15,869] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.293 seconds
+[2023-08-28 20:15:51,781] {processor.py:153} INFO - Started process (PID=27528) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:15:51,783] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:15:51,785] {logging_mixin.py:115} INFO - [2023-08-28 20:15:51,785] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:15:53,240] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:15:53,271] {logging_mixin.py:115} INFO - [2023-08-28 20:15:53,271] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:15:53,313] {logging_mixin.py:115} INFO - [2023-08-28 20:15:53,312] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:15:53,353] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.588 seconds
+[2023-08-28 20:16:58,524] {processor.py:153} INFO - Started process (PID=27989) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:16:58,527] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:16:58,529] {logging_mixin.py:115} INFO - [2023-08-28 20:16:58,529] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:17:00,448] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:17:00,662] {logging_mixin.py:115} INFO - [2023-08-28 20:17:00,661] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:17:00,695] {logging_mixin.py:115} INFO - [2023-08-28 20:17:00,694] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2023-08-28 20:17:00,756] {logging_mixin.py:115} INFO - [2023-08-28 20:17:00,755] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-07-31T00:00:00+00:00, run_after=2023-08-07T00:00:00+00:00
+[2023-08-28 20:17:00,839] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 2.334 seconds
+[2023-08-28 20:19:07,730] {processor.py:153} INFO - Started process (PID=29446) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:19:07,732] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:19:07,733] {logging_mixin.py:115} INFO - [2023-08-28 20:19:07,733] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:19:09,225] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:19:09,254] {logging_mixin.py:115} INFO - [2023-08-28 20:19:09,254] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:19:09,299] {logging_mixin.py:115} INFO - [2023-08-28 20:19:09,299] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:19:09,333] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.617 seconds
+[2023-08-28 20:19:45,390] {processor.py:153} INFO - Started process (PID=29631) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:19:45,394] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:19:45,396] {logging_mixin.py:115} INFO - [2023-08-28 20:19:45,396] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:19:46,576] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:19:46,607] {logging_mixin.py:115} INFO - [2023-08-28 20:19:46,606] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:19:46,659] {logging_mixin.py:115} INFO - [2023-08-28 20:19:46,658] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:19:46,693] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.325 seconds
+[2023-08-28 20:20:18,905] {processor.py:153} INFO - Started process (PID=29660) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:20:18,907] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:20:18,909] {logging_mixin.py:115} INFO - [2023-08-28 20:20:18,908] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:20:20,063] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:20:20,096] {logging_mixin.py:115} INFO - [2023-08-28 20:20:20,096] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:20:20,140] {logging_mixin.py:115} INFO - [2023-08-28 20:20:20,139] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:20:20,173] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.283 seconds
+[2023-08-28 20:21:12,176] {processor.py:153} INFO - Started process (PID=30156) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:21:12,178] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:21:12,179] {logging_mixin.py:115} INFO - [2023-08-28 20:21:12,179] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:21:14,244] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:21:14,610] {logging_mixin.py:115} INFO - [2023-08-28 20:21:14,609] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:21:14,646] {logging_mixin.py:115} INFO - [2023-08-28 20:21:14,646] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2023-08-28 20:21:14,711] {logging_mixin.py:115} INFO - [2023-08-28 20:21:14,710] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-07-31T00:00:00+00:00, run_after=2023-08-07T00:00:00+00:00
+[2023-08-28 20:21:14,827] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 2.662 seconds
+[2023-08-28 20:22:50,921] {processor.py:153} INFO - Started process (PID=31265) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:22:50,923] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:22:50,927] {logging_mixin.py:115} INFO - [2023-08-28 20:22:50,927] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:22:52,252] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:22:52,283] {logging_mixin.py:115} INFO - [2023-08-28 20:22:52,283] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:22:52,321] {logging_mixin.py:115} INFO - [2023-08-28 20:22:52,321] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:22:52,351] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.447 seconds
+[2023-08-28 20:23:27,425] {processor.py:153} INFO - Started process (PID=31303) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:23:27,427] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:23:27,428] {logging_mixin.py:115} INFO - [2023-08-28 20:23:27,428] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:23:28,639] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:23:28,671] {logging_mixin.py:115} INFO - [2023-08-28 20:23:28,671] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:23:28,714] {logging_mixin.py:115} INFO - [2023-08-28 20:23:28,713] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:23:28,744] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.348 seconds
+[2023-08-28 20:24:01,998] {processor.py:153} INFO - Started process (PID=31435) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:24:02,001] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:24:02,003] {logging_mixin.py:115} INFO - [2023-08-28 20:24:02,003] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:24:03,707] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:24:03,745] {logging_mixin.py:115} INFO - [2023-08-28 20:24:03,745] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:24:03,796] {logging_mixin.py:115} INFO - [2023-08-28 20:24:03,796] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:24:03,834] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.848 seconds
+[2023-08-28 20:24:42,592] {processor.py:153} INFO - Started process (PID=31608) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:24:42,602] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:24:42,605] {logging_mixin.py:115} INFO - [2023-08-28 20:24:42,605] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:24:46,308] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:24:46,591] {logging_mixin.py:115} INFO - [2023-08-28 20:24:46,591] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:24:46,625] {logging_mixin.py:115} INFO - [2023-08-28 20:24:46,625] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2023-08-28 20:24:46,682] {logging_mixin.py:115} INFO - [2023-08-28 20:24:46,682] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-07-31T00:00:00+00:00, run_after=2023-08-07T00:00:00+00:00
+[2023-08-28 20:24:46,732] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 4.192 seconds
+[2023-08-28 20:26:29,741] {processor.py:153} INFO - Started process (PID=32635) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:26:29,742] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:26:29,744] {logging_mixin.py:115} INFO - [2023-08-28 20:26:29,744] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:26:30,854] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:26:30,943] {logging_mixin.py:115} INFO - [2023-08-28 20:26:30,943] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:26:30,956] {logging_mixin.py:115} INFO - [2023-08-28 20:26:30,956] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2023-08-28 20:26:30,980] {logging_mixin.py:115} INFO - [2023-08-28 20:26:30,980] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-07-31T00:00:00+00:00, run_after=2023-08-07T00:00:00+00:00
+[2023-08-28 20:26:31,019] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.292 seconds
+[2023-08-28 20:27:13,704] {processor.py:153} INFO - Started process (PID=11) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:27:13,708] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:27:13,710] {logging_mixin.py:115} INFO - [2023-08-28 20:27:13,710] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:27:14,727] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:27:14,757] {logging_mixin.py:115} INFO - [2023-08-28 20:27:14,757] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:27:14,798] {logging_mixin.py:115} INFO - [2023-08-28 20:27:14,797] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-07-31T00:00:00+00:00, run_after=2023-08-07T00:00:00+00:00
+[2023-08-28 20:27:14,827] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.137 seconds
+[2023-08-28 20:28:01,318] {processor.py:153} INFO - Started process (PID=464) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:28:01,320] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:28:01,322] {logging_mixin.py:115} INFO - [2023-08-28 20:28:01,322] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:28:03,255] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:28:03,295] {logging_mixin.py:115} INFO - [2023-08-28 20:28:03,295] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:28:03,357] {logging_mixin.py:115} INFO - [2023-08-28 20:28:03,357] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-14T00:00:00+00:00, run_after=2023-08-21T00:00:00+00:00
+[2023-08-28 20:28:03,406] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 2.105 seconds
+[2023-08-28 20:29:29,545] {processor.py:153} INFO - Started process (PID=1421) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:29:29,548] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:29:29,549] {logging_mixin.py:115} INFO - [2023-08-28 20:29:29,549] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:29:31,454] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:29:31,709] {logging_mixin.py:115} INFO - [2023-08-28 20:29:31,709] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:29:31,767] {logging_mixin.py:115} INFO - [2023-08-28 20:29:31,767] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2023-08-28 20:29:31,890] {logging_mixin.py:115} INFO - [2023-08-28 20:29:31,889] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-07-31T00:00:00+00:00, run_after=2023-08-07T00:00:00+00:00
+[2023-08-28 20:29:32,023] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 2.495 seconds
+[2023-08-28 20:31:11,489] {processor.py:153} INFO - Started process (PID=2579) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:31:11,492] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:31:11,493] {logging_mixin.py:115} INFO - [2023-08-28 20:31:11,493] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:31:12,701] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:31:12,746] {logging_mixin.py:115} INFO - [2023-08-28 20:31:12,745] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:31:12,809] {logging_mixin.py:115} INFO - [2023-08-28 20:31:12,809] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:31:12,838] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.361 seconds
+[2023-08-28 20:31:50,089] {processor.py:153} INFO - Started process (PID=2715) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:31:50,090] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:31:50,091] {logging_mixin.py:115} INFO - [2023-08-28 20:31:50,091] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:31:51,143] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:31:51,171] {logging_mixin.py:115} INFO - [2023-08-28 20:31:51,171] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:31:51,209] {logging_mixin.py:115} INFO - [2023-08-28 20:31:51,209] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:31:51,238] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.160 seconds
+[2023-08-28 20:32:29,022] {processor.py:153} INFO - Started process (PID=2905) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:32:29,024] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:32:29,025] {logging_mixin.py:115} INFO - [2023-08-28 20:32:29,025] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:32:30,727] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:32:30,773] {logging_mixin.py:115} INFO - [2023-08-28 20:32:30,773] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:32:30,819] {logging_mixin.py:115} INFO - [2023-08-28 20:32:30,819] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:32:30,850] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.842 seconds
+[2023-08-28 20:33:11,507] {processor.py:153} INFO - Started process (PID=2990) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:33:11,510] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:33:11,511] {logging_mixin.py:115} INFO - [2023-08-28 20:33:11,511] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:33:12,668] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:33:12,699] {logging_mixin.py:115} INFO - [2023-08-28 20:33:12,699] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:33:12,739] {logging_mixin.py:115} INFO - [2023-08-28 20:33:12,739] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:33:12,773] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.277 seconds
+[2023-08-28 20:33:46,863] {processor.py:153} INFO - Started process (PID=3121) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:33:46,865] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:33:46,870] {logging_mixin.py:115} INFO - [2023-08-28 20:33:46,869] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:33:47,974] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:33:48,001] {logging_mixin.py:115} INFO - [2023-08-28 20:33:48,001] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:33:48,045] {logging_mixin.py:115} INFO - [2023-08-28 20:33:48,045] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:33:48,080] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.235 seconds
+[2023-08-28 20:34:19,976] {processor.py:153} INFO - Started process (PID=3224) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:34:19,978] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:34:19,979] {logging_mixin.py:115} INFO - [2023-08-28 20:34:19,979] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:34:21,302] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:34:21,330] {logging_mixin.py:115} INFO - [2023-08-28 20:34:21,330] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:34:21,367] {logging_mixin.py:115} INFO - [2023-08-28 20:34:21,367] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:34:21,401] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.439 seconds
+[2023-08-28 20:34:59,103] {processor.py:153} INFO - Started process (PID=3285) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:34:59,104] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:34:59,106] {logging_mixin.py:115} INFO - [2023-08-28 20:34:59,106] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:35:00,132] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:35:00,158] {logging_mixin.py:115} INFO - [2023-08-28 20:35:00,158] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:35:00,194] {logging_mixin.py:115} INFO - [2023-08-28 20:35:00,193] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:35:00,223] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.133 seconds
+[2023-08-28 20:35:36,550] {processor.py:153} INFO - Started process (PID=3417) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:35:36,557] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:35:36,565] {logging_mixin.py:115} INFO - [2023-08-28 20:35:36,565] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:35:37,684] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:35:37,711] {logging_mixin.py:115} INFO - [2023-08-28 20:35:37,710] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:35:37,764] {logging_mixin.py:115} INFO - [2023-08-28 20:35:37,764] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:35:37,800] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.264 seconds
+[2023-08-28 20:36:09,365] {processor.py:153} INFO - Started process (PID=3549) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:36:09,366] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:36:09,368] {logging_mixin.py:115} INFO - [2023-08-28 20:36:09,368] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:36:10,437] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:36:10,470] {logging_mixin.py:115} INFO - [2023-08-28 20:36:10,470] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:36:10,510] {logging_mixin.py:115} INFO - [2023-08-28 20:36:10,509] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:36:10,546] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.196 seconds
+[2023-08-28 20:36:43,481] {processor.py:153} INFO - Started process (PID=3578) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:36:43,482] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:36:43,483] {logging_mixin.py:115} INFO - [2023-08-28 20:36:43,483] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:36:44,576] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:36:44,606] {logging_mixin.py:115} INFO - [2023-08-28 20:36:44,606] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:36:44,644] {logging_mixin.py:115} INFO - [2023-08-28 20:36:44,644] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:36:44,673] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.205 seconds
+[2023-08-28 20:37:18,532] {processor.py:153} INFO - Started process (PID=3758) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:37:18,534] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:37:18,536] {logging_mixin.py:115} INFO - [2023-08-28 20:37:18,535] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:37:19,700] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:37:19,728] {logging_mixin.py:115} INFO - [2023-08-28 20:37:19,728] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:37:19,764] {logging_mixin.py:115} INFO - [2023-08-28 20:37:19,764] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:37:19,791] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.274 seconds
+[2023-08-28 20:37:55,995] {processor.py:153} INFO - Started process (PID=3891) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:37:55,997] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:37:55,999] {logging_mixin.py:115} INFO - [2023-08-28 20:37:55,999] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:37:57,454] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:37:57,556] {logging_mixin.py:115} INFO - [2023-08-28 20:37:57,556] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:37:57,605] {logging_mixin.py:115} INFO - [2023-08-28 20:37:57,605] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:37:57,662] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.687 seconds
+[2023-08-28 20:38:35,982] {processor.py:153} INFO - Started process (PID=3940) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:38:35,984] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:38:35,985] {logging_mixin.py:115} INFO - [2023-08-28 20:38:35,985] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:38:37,363] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:38:37,450] {logging_mixin.py:115} INFO - [2023-08-28 20:38:37,450] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:38:37,537] {logging_mixin.py:115} INFO - [2023-08-28 20:38:37,537] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:38:37,602] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.636 seconds
+[2023-08-28 20:39:10,175] {processor.py:153} INFO - Started process (PID=4054) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:39:10,176] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:39:10,178] {logging_mixin.py:115} INFO - [2023-08-28 20:39:10,177] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:39:11,418] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:39:11,449] {logging_mixin.py:115} INFO - [2023-08-28 20:39:11,449] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:39:11,487] {logging_mixin.py:115} INFO - [2023-08-28 20:39:11,487] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:39:11,522] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.363 seconds
+[2023-08-28 20:39:47,283] {processor.py:153} INFO - Started process (PID=4219) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:39:47,285] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:39:47,293] {logging_mixin.py:115} INFO - [2023-08-28 20:39:47,293] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:39:50,046] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:39:50,199] {logging_mixin.py:115} INFO - [2023-08-28 20:39:50,198] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:39:50,219] {logging_mixin.py:115} INFO - [2023-08-28 20:39:50,218] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2023-08-28 20:39:50,280] {logging_mixin.py:115} INFO - [2023-08-28 20:39:50,280] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-07-31T00:00:00+00:00, run_after=2023-08-07T00:00:00+00:00
+[2023-08-28 20:39:50,361] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 3.112 seconds
+[2023-08-28 20:42:19,283] {processor.py:153} INFO - Started process (PID=5849) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:42:19,285] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:42:19,286] {logging_mixin.py:115} INFO - [2023-08-28 20:42:19,286] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:42:20,974] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:42:21,006] {logging_mixin.py:115} INFO - [2023-08-28 20:42:21,005] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:42:21,050] {logging_mixin.py:115} INFO - [2023-08-28 20:42:21,049] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:42:21,082] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.814 seconds
+[2023-08-28 20:43:16,495] {processor.py:153} INFO - Started process (PID=6150) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:43:16,501] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:43:16,504] {logging_mixin.py:115} INFO - [2023-08-28 20:43:16,504] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:43:18,592] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:43:18,721] {logging_mixin.py:115} INFO - [2023-08-28 20:43:18,720] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:43:18,858] {logging_mixin.py:115} INFO - [2023-08-28 20:43:18,858] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:43:18,911] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 2.434 seconds
+[2023-08-28 20:43:49,570] {processor.py:153} INFO - Started process (PID=6183) to work on /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:43:49,571] {processor.py:641} INFO - Processing file /home/felipe/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-28 20:43:49,574] {logging_mixin.py:115} INFO - [2023-08-28 20:43:49,574] {dagbag.py:507} INFO - Filling up the DagBag from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:43:50,900] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/felipe/airflow/dags/dados_climaticos.py
+[2023-08-28 20:43:50,942] {logging_mixin.py:115} INFO - [2023-08-28 20:43:50,942] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-28 20:43:50,993] {logging_mixin.py:115} INFO - [2023-08-28 20:43:50,993] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-28T00:00:00+00:00, run_after=2023-09-04T00:00:00+00:00
+[2023-08-28 20:43:51,033] {processor.py:161} INFO - Processing /home/felipe/airflow/dags/dados_climaticos.py took 1.475 seconds
